@@ -8,7 +8,7 @@
 
 <img align="right" alt="coding" width="350" src="https://raw.githubusercontent.com/kizza2/kizza2/main/hi.gif">
 
-This is the maiun code of my roblox ( bss ) script, the game link : https://www.roblox.com/games/1537690962/Bee-Swarm-Simulator
+This is the main code of my roblox ( bss ) script, the game link : https://www.roblox.com/games/1537690962/Bee-Swarm-Simulator
 i let you have fun with kizza exploit ;)
 
 kizzouille#6969 // kizzouille#3606
