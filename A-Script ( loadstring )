@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/kizza2/bss-updated/main/A-Script%20Bss%20kizza%20updated%20v3.0.0", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kizza2/bss-updated/main/A-Script%20Bss%20kizza%20updated%20v3.0.0.lua", true))()
