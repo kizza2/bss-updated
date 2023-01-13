@@ -1,14 +1,41 @@
-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;![logo](https://raw.githubusercontent.com/kizza2/kizza2/main/standard.gif)
-<!-- lmao what a shit ??-->
+-----
 
-<h1 align="center">Hi 👋, I'm kizza</h1>
-<h3 align="center">A passionate python, lua and c# devlopper, from France</h3>
+<p align="center">
+<img src="https://raw.githubusercontent.com/kizza2/kizza2/main/standard.gif", width="500", height="500">
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kizza2&label=Profile%20views&color=0e75b6&style=flat" alt="kizza2" /> </p>
+-----
 
-<img align="right" alt="coding" width="350" src="https://raw.githubusercontent.com/kizza2/kizza2/main/hi.gif">
+### <p align="center">💥 kizza bss script 💥</p>
 
-This is the main code of my roblox ( bss ) script, the game link : https://www.roblox.com/games/1537690962/Bee-Swarm-Simulator
-i let you have fun with kizza exploit ;)
+-----
 
-kizzouille#6969 // kizzouille#3606
+### <p align="center">📀 Dependencies 📀</p>
+
+<p align="center"><strong><i>In order for the program to work, you must have to install this things :</i></strong</p>
+
+<br><br>
+<p> You only need an executor like evon, krnl etc </p>
+<br><br>
+
+-----
+
+### <p align="center">📋 Lines 📋</p>
+
+<br><br>
+**Put that line in your executor** :<br>
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kizza2/bss-updated/main/A-Script%20Bss%20kizza%20updated%20v3.0.0.lua", true))()
+```
+
+-----
+### <p align="center">📌 Disclaimer 📌</p>
+
+<br><br>
+* ***Please use this program only for educational purposes.***
+* ***It is not meant to be used in any malicious way, and I decline any responsibility for what you do with it.***
+<br><br>
+
+-----
+
+### <p align="center">kizza</p>
