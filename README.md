@@ -10,12 +10,16 @@
 
 -----
 
-### <p align="center">📀 Dependencies 📀</p>
-
-<p align="center"><strong><i>In order for the program to work, you must have to install this things :</i></strong</p>
+### <p align="center">🎈 Update 🎈</p>
 
 <br><br>
-<p> You only need an executor like evon, krnl etc </p>
+<p>- <em>Added news features :</em><br>
+<strong>Auto claim RoboBear pass,<br>
+  Auto invoke/summon sprout,<br>
+  New button for get <a href="https://raw.githubusercontent.com/kizza2/bss-updated/main/utils/Tokens-id">every token list</a> ( for autofarm priority token / tp to         rares token )<br>
+  Added new section : beesmas utils ( for every beesmas things )
+</p>
+
 <br><br>
 
 -----
