@@ -9,6 +9,11 @@
 ### <p align="center">💥 kizza bss script 💥</p>
 
 -----
+### <p align="center">⚠/\ Please read this /\⚠</p>
+<br>
+<p><strong>Actually, onett (the owner of bss) has put in place a system which is very much against scripts and many people have lost their accounts (have been reset) users of my script have not had this problem because it is currently not "counterable", but I'll take away your access to the script until I find a way to counter everything, <a href="https://youtu.be/Wa1w8ff9Nbs">here's an explanation video.</p></a>
+
+
 
 ### <p align="center">🎈 Update 🎈</p>
 
