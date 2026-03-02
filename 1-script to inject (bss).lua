@@ -1,8 +1,8 @@
 -- API CALLS
 
-local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/kizza2/Lua/main/bracketv3.lua"))()
-local api = loadstring(game:HttpGet("https://raw.githubusercontent.com/kizza2/xlpapi/main/api.lua"))()
-local bssapi = loadstring(game:HttpGet("https://raw.githubusercontent.com/kizza2/xlpapi/main/bssapi.lua"))()
+local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/kizza2/bss-updated/refs/heads/main/kizza-bss-library.lua"))()
+local api = loadstring(game:HttpGet("https://raw.githubusercontent.com/kizza2/bss-updated/refs/heads/main/kizza-bss-api.lua"))()
+local bssapi = loadstring(game:HttpGet("https://raw.githubusercontent.com/kizza2/bss-updated/refs/heads/main/kizza-bss-xlpapi.lua"))()
 
 if not isfolder("kocmoc") then makefolder("kocmoc") end
 
